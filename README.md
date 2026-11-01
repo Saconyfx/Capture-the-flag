@@ -38,3 +38,8 @@ ctf-projects/
 ├── challenge-03/
 
 └── README.md.
+
+## Disclaimer
+
+The challenges and vulnerabilities in this repository are intentionally created for educational and authorized security testing purposes.
+Do not use the techniques demonstrated in these challenges against systems without explicit authorization.
