@@ -24,3 +24,17 @@ This repository contains CTF challenges I have built across different areas of c
 * Linux
 
 * Source Code Review
+
+## Repository Structure
+
+Each challenge is contained in its own directory with the files required to deploy or run it.
+
+ctf-projects/
+
+├── challenge-01/
+
+├── challenge-02/
+
+├── challenge-03/
+
+└── README.md.
